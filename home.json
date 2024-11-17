@@ -1,0 +1,72 @@
+{
+    "blog" : [
+        {
+            "id" : 1,
+            "name" : "Так се такси",
+            "promo" : "В Санкт-Петербурге ввели штрафы за навязывание услуг такси",
+            "link" : "/blog/78"
+        },
+        {
+            "id" : 2,
+            "name" : "Праздник со слезами на глазах",
+            "promo" : "Хватит одевать детей в военную форму",
+            "link" : "/blog/70"
+        },
+        {
+            "id" : 3,
+            "name" : "Познаём палочки",
+            "promo" : "О дефисе, минусе, тире и том, с чем их едят",
+            "link" : "/blog/25"
+        },
+        {
+            "id" : 4,
+            "name" : "Календарь нормального человека",
+            "promo" : "Обожаю славянские названия месяцев",
+            "link" : "/blog/56"
+        },
+        {
+            "id" : 5,
+            "name" : "Парад новогодних иконок",
+            "promo" : "Ненавижу праздничные иконки приложений",
+            "link" : "/blog/48"
+        },
+        {
+            "id" : 6,
+            "name" : "Печатай по-человечески",
+            "promo" : "Хвалебные оды типографской раскладке Бирмана",
+            "link" : "/blog/4"
+        }
+    ],
+    "design" : [
+        {
+            "id" : 1,
+            "name" : "Айдентика Сочинского национального парка",
+            "img" : "/images/design/sochinatpark.png",
+            "link" : "https://behance.net/gallery/211674223/logotip-sochinskogo-nacionalnogo-parka",
+            "new" : 1
+        },
+        {
+            "id" : 2,
+            "name" : "Айдентика менеджера паролей «Шифр»",
+            "img" : "/images/design/shifr.png",
+            "link" : "https://behance.net/gallery/204860033/logotip-menedzhera-parolej-shifr",
+            "new" : 0
+        },
+        {
+            "id" : 3,
+            "name" : "Айдентика креативного пространства «Коровкинг»",
+            "img" : "/images/design/korovking.png",
+            "link" : "https://behance.net/gallery/178874939/logotip-korovkinga",
+            "new" : 0
+        },
+        {
+            "id" : 4,
+            "name" : "Дашборд для дарксторов «ВкусВилла»",
+            "img" : "/images/design/vvdashboard.png",
+            "link" : "https://behance.net/gallery/209414127/dashbord-dlja-darkstorov-vkusvilla",
+            "new" : 0
+        }
+    ],
+    "projects" : [],
+    "lolz" : []
+}
