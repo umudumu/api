@@ -1,0 +1,100 @@
+[
+    {
+        "id" : 1,
+        "name" : "Айдентика Сочинского национального парка",
+        "img" : "/images/design/sochinatpark.png",
+        "link" : "https://behance.net/gallery/211674223/logotip-sochinskogo-nacionalnogo-parka",
+        "date" : "2024-11-04"
+    },
+    {
+        "id" : 2,
+        "name" : "Айдентика менеджера паролей «Шифр»",
+        "img" : "/images/design/shifr.png",
+        "link" : "https://behance.net/gallery/204860033/logotip-menedzhera-parolej-shifr",
+        "date" : "2024-08-05"
+    },
+    {
+        "id" : 3,
+        "name" : "Дашборд для дарксторов «ВкусВилла»",
+        "img" : "/images/design/vvdashboard.png",
+        "link" : "https://behance.net/gallery/209414127/dashbord-dlja-darkstorov-vkusvilla",
+        "date" : "2024-10-06"
+    },
+    {
+        "id" : 4,
+        "name" : "Айдентика школы английского языка «Левел-ап»",
+        "img" : "/images/design/levelup.png",
+        "link" : "https://behance.net/gallery/204686165/logotip-shkoly-anglijskogo-jazyka-LevelUp",
+        "date" : "2024-08-04"
+    },
+    {
+        "id" : 5,
+        "name" : "Айдентика «Тандер Пиццы»",
+        "img" : "/images/design/thunderpizza.png",
+        "link" : "https://behance.net/gallery/196609365/logotip-tander-piccy",
+        "date" : "2024-06-24"
+    },
+    {
+        "id" : 6,
+        "name" : "Айдентика Сочинского государственного университета",
+        "img" : "/images/design/sochiuniversity.png",
+        "link" : "https://behance.net/gallery/151545257/logotip-sochinskogo-gosudarstvennogo-universiteta",
+        "date" : "2022-12-27"
+    },
+    {
+        "id" : 7,
+        "name" : "Айдентика креативного пространства «Коровкинг»",
+        "img" : "/images/design/korovking.png",
+        "link" : "https://behance.net/gallery/178874939/logotip-korovkinga",
+        "date" : "2023-09-04"
+    },
+    {
+        "id" : 8,
+        "name" : "Айдентика Кубанского государственного университета",
+        "img" : "/images/design/kubsu.png",
+        "link" : "https://behance.net/gallery/171601031/logotip-kubanskogo-gosudarstvennogo-universiteta",
+        "date" : "2023-05-28"
+    },
+    {
+        "id" : 9,
+        "name" : "Айдентика проекта «Рашн бариста»",
+        "img" : "/images/design/russianbarista.png",
+        "link" : "https://behance.net/gallery/179328109/logotip-proekta-Russian-Barista",
+        "date" : "2023-09-06"
+    },
+    {
+        "id" : 10,
+        "name" : "Айдентика Бориса Трушина",
+        "img" : "/images/design/trushin.png",
+        "link" : "https://behance.net/gallery/201140543/logotip-borisa-trushina",
+        "date" : "2024-06-16"
+    },
+    {
+        "id" : 11,
+        "name" : "Айдентика магазина одежды «Беспредел»",
+        "img" : "/images/design/bespredel.png",
+        "link" : "https://behance.net/gallery/171233659/logotip-magazina-odezhdy-bespredel",
+        "date" : "2023-05-23"
+    },
+    {
+        "id" : 12,
+        "name" : "Айдентика хендмейдера Дистиаты",
+        "img" : "/images/design/distiata.png",
+        "link" : "https://behance.net/gallery/188498933/logotip-distiata",
+        "date" : "2024-01-09"
+    },
+    {
+        "id" : 13,
+        "name" : "Айдентика бренда косметики «Январь»",
+        "img" : "/images/design/yanvar.png",
+        "link" : "https://behance.net/gallery/195926225/logotip-brenda-kosmetiki-janvar",
+        "date" : "2024-04-15"
+    },
+    {
+        "id" : 14,
+        "name" : "Айдентика маркетплейса «Море продуктов»",
+        "img" : "/images/design/moreproduktov.png",
+        "link" : "https://behance.net/gallery/178439933/logotip-marketplejsa-more-produktov",
+        "date" : "2023-08-28"
+    }
+]
