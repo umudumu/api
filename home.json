@@ -67,6 +67,14 @@
             "new" : 0
         }
     ],
-    "projects" : [],
+    "projects" : [
+        {
+            "id" : 1,
+            "name" : "Символика Сочи",
+            "promo" : "Упрощённые версии флага и герба города Сочи во всех форматах для свободного использования",
+            "img" : "/images/projects/sochi.jpg",
+            "link" : "/projects/sochi"
+        }
+    ],
     "lolz" : []
 }
