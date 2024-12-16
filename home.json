@@ -40,23 +40,23 @@
     "design" : [
         {
             "id" : 1,
-            "name" : "Айдентика Сочинского национального парка",
-            "img" : "/images/design/sochinatpark.png",
-            "link" : "https://behance.net/gallery/211674223/logotip-sochinskogo-nacionalnogo-parka",
+            "name" : "Айдентика сообщества «Айти Сочи»",
+            "img" : "/images/design/itsochi.png",
+            "link" : "https://behance.net/gallery/214816369/logotip-soobschestva-IT-Sochi",
             "new" : 1
         },
         {
             "id" : 2,
-            "name" : "Айдентика менеджера паролей «Шифр»",
-            "img" : "/images/design/shifr.png",
-            "link" : "https://behance.net/gallery/204860033/logotip-menedzhera-parolej-shifr",
+            "name" : "Айдентика Сочинского национального парка",
+            "img" : "/images/design/sochinatpark.png",
+            "link" : "https://behance.net/gallery/211674223/logotip-sochinskogo-nacionalnogo-parka",
             "new" : 0
         },
         {
             "id" : 3,
-            "name" : "Айдентика креативного пространства «Коровкинг»",
-            "img" : "/images/design/korovking.png",
-            "link" : "https://behance.net/gallery/178874939/logotip-korovkinga",
+            "name" : "Айдентика менеджера паролей «Шифр»",
+            "img" : "/images/design/shifr.png",
+            "link" : "https://behance.net/gallery/204860033/logotip-menedzhera-parolej-shifr",
             "new" : 0
         },
         {
