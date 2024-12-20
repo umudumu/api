@@ -40,30 +40,30 @@
     "design" : [
         {
             "id" : 1,
+            "name" : "Айдентика подкаста «ФорГикс»",
+            "img" : "/images/design/forgeeks.png",
+            "link" : "https://behance.net/gallery/215184873/logotip-podkasta-ForGeeks",
+            "new" : 1
+        },
+        {
+            "id" : 2,
             "name" : "Айдентика сообщества «Айти Сочи»",
             "img" : "/images/design/itsochi.png",
             "link" : "https://behance.net/gallery/214816369/logotip-soobschestva-IT-Sochi",
             "new" : 1
         },
         {
-            "id" : 2,
-            "name" : "Айдентика Сочинского национального парка",
-            "img" : "/images/design/sochinatpark.png",
-            "link" : "https://behance.net/gallery/211674223/logotip-sochinskogo-nacionalnogo-parka",
-            "new" : 0
-        },
-        {
             "id" : 3,
-            "name" : "Айдентика менеджера паролей «Шифр»",
-            "img" : "/images/design/shifr.png",
-            "link" : "https://behance.net/gallery/204860033/logotip-menedzhera-parolej-shifr",
+            "name" : "Дашборд для дарксторов «ВкусВилла»",
+            "img" : "/images/design/vvdashboard.png",
+            "link" : "https://behance.net/gallery/209414127/dashbord-dlja-darkstorov-vkusvilla",
             "new" : 0
         },
         {
             "id" : 4,
-            "name" : "Дашборд для дарксторов «ВкусВилла»",
-            "img" : "/images/design/vvdashboard.png",
-            "link" : "https://behance.net/gallery/209414127/dashbord-dlja-darkstorov-vkusvilla",
+            "name" : "Айдентика Сочинского национального парка",
+            "img" : "/images/design/sochinatpark.png",
+            "link" : "https://behance.net/gallery/211674223/logotip-sochinskogo-nacionalnogo-parka",
             "new" : 0
         }
     ],
